@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "name": "집생활",
+  "brand": "HOME LIFE",
+  "mark": "HL",
+  "worker": "homelife",
+  "url": "https://homelife.webnote-lab.workers.dev",
+  "description": "집의 환기, 설비, 생활비와 일상적인 점검 방법을 다룹니다.",
+  "tagline": "매일의 주거생활을 정리하다",
+  "categories": [
+    {
+      "slug": "condensation",
+      "name": "결로",
+      "description": "결로 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "drains",
+      "name": "배수구",
+      "description": "배수구 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "water-pressure",
+      "name": "수압",
+      "description": "수압 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "boiler",
+      "name": "보일러",
+      "description": "보일러 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "soundproofing",
+      "name": "방음",
+      "description": "방음 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "ventilation",
+      "name": "환기",
+      "description": "환기 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "faucets",
+      "name": "수도꼭지",
+      "description": "수도꼭지 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "insect-screens",
+      "name": "방충망·벌레",
+      "description": "방충망·벌레 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "living-costs",
+      "name": "생활비",
+      "description": "생활비 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "home-inspection",
+      "name": "집 점검",
+      "description": "집 점검 관련 확인 방법과 가이드"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/homelife/issues"
+}
